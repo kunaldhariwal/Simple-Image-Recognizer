@@ -16,3 +16,6 @@ This is no complex Stuff, It's simple and easy to understand and also does not p
 3. Set epoch in the trainer file as per your wish and for more accuracy.
 4. Only run tester, after training is done. 
 5. Input the file path and you'll get the output.
+
+
+P.S- You can also use CIFAR100 for more categories and better results.
