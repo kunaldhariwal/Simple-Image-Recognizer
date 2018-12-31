@@ -1,4 +1,4 @@
-# Simple-Image-Recognition
+# Simple-Image-Recognizer
 Simple image recognition using python with CIFAR10 dataset in Keras
 
 
